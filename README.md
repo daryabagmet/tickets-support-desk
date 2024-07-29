@@ -1,6 +1,6 @@
 ## Overview
 
-![Screenshot of the application](tickets-support-desk/frontend/public/assets
+![Screenshot of the application](./frontend/public/assets
 /screenshot 1.png)
 
 ![Screenshot of the application](frontend/public/assets/screenshot 2.png)
